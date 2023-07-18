@@ -1,0 +1,1 @@
+Estr arquivo complemente visa observar o envio de novos arquivos para o repositório online github
